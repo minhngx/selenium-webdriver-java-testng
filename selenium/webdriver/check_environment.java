@@ -47,7 +47,8 @@ public class check_environment {
 
     @Test
     public void TC_04() {
-        // ...
+        System.out.println("Hello");
+        // Add comment
     }
 
     @AfterClass
